@@ -2,4 +2,4 @@
 *.dat
 
 # Jupyter stuff #
-**/.ipynb_checkpoints
+.ipynb_checkpoints/
